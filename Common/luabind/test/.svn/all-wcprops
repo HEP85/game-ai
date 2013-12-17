@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/luabind/!svn/ver/505/trunk/test
+END
+test_separation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/luabind/!svn/ver/366/trunk/test/test_separation.cpp
+END
+test_yield.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/luabind/!svn/ver/450/trunk/test/test_yield.cpp
+END
+test_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/luabind/!svn/ver/503/trunk/test/test_object.cpp
+END
+test_policies.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/luabind/!svn/ver/457/trunk/test/test_policies.cpp
+END
+test_typetraits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/luabind/!svn/ver/450/trunk/test/test_typetraits.cpp
+END
+test_scope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/luabind/!svn/ver/366/trunk/test/test_scope.cpp
+END
+test_free_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/luabind/!svn/ver/478/trunk/test/test_free_functions.cpp
+END
+test_null_pointer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/luabind/!svn/ver/366/trunk/test/test_null_pointer.cpp
+END
+test_has_get_pointer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/luabind/!svn/ver/486/trunk/test/test_has_get_pointer.cpp
+END
+test_def_from_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/luabind/!svn/ver/450/trunk/test/test_def_from_base.cpp
+END
+test_vector_of_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/luabind/!svn/ver/454/trunk/test/test_vector_of_object.cpp
+END
+test_value_wrapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/luabind/!svn/ver/450/trunk/test/test_value_wrapper.cpp
+END
+test_held_type.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/luabind/!svn/ver/476/trunk/test/test_held_type.cpp
+END
+test_simple_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/luabind/!svn/ver/366/trunk/test/test_simple_class.cpp
+END
+test_operators.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/luabind/!svn/ver/450/trunk/test/test_operators.cpp
+END
+test_back_reference.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/luabind/!svn/ver/450/trunk/test/test_back_reference.cpp
+END
+test_exceptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/luabind/!svn/ver/366/trunk/test/test_exceptions.cpp
+END
+test_implicit_cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/luabind/!svn/ver/366/trunk/test/test_implicit_cast.cpp
+END
+test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/luabind/!svn/ver/478/trunk/test/test.hpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/luabind/!svn/ver/479/trunk/test/main.cpp
+END
+test_const.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/luabind/!svn/ver/366/trunk/test/test_const.cpp
+END
+test_attributes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/luabind/!svn/ver/450/trunk/test/test_attributes.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/luabind/!svn/ver/479/trunk/test/Jamfile
+END
+test_iterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/luabind/!svn/ver/505/trunk/test/test_iterator.cpp
+END
+test_construction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/luabind/!svn/ver/366/trunk/test/test_construction.cpp
+END
+benchmark.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/luabind/!svn/ver/122/trunk/test/benchmark.cpp
+END
+test_abstract_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/luabind/!svn/ver/457/trunk/test/test_abstract_base.cpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/luabind/!svn/ver/476/trunk/test/makefile
+END
+test_lua_classes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/luabind/!svn/ver/476/trunk/test/test_lua_classes.cpp
+END

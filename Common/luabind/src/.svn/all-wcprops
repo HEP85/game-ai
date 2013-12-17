@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/luabind/!svn/ver/507/trunk/src
+END
+open.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/luabind/!svn/ver/354/trunk/src/open.cpp
+END
+class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/luabind/!svn/ver/480/trunk/src/class.cpp
+END
+scope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/luabind/!svn/ver/349/trunk/src/scope.cpp
+END
+find_best_match.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/luabind/!svn/ver/450/trunk/src/find_best_match.cpp
+END
+wrapper_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/luabind/!svn/ver/349/trunk/src/wrapper_base.cpp
+END
+class_rep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/luabind/!svn/ver/507/trunk/src/class_rep.cpp
+END
+ref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/luabind/!svn/ver/204/trunk/src/ref.cpp
+END
+object_rep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/luabind/!svn/ver/349/trunk/src/object_rep.cpp
+END
+class_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/luabind/!svn/ver/478/trunk/src/class_info.cpp
+END
+overload_rep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/luabind/!svn/ver/450/trunk/src/overload_rep.cpp
+END
+weak_ref.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/luabind/!svn/ver/349/trunk/src/weak_ref.cpp
+END
+implicit_cast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/luabind/!svn/ver/349/trunk/src/implicit_cast.cpp
+END
+function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/luabind/!svn/ver/349/trunk/src/function.cpp
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/luabind/!svn/ver/450/trunk/src/Jamfile
+END
+link_compatibility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/luabind/!svn/ver/210/trunk/src/link_compatibility.cpp
+END
+create_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/luabind/!svn/ver/349/trunk/src/create_class.cpp
+END
+error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/luabind/!svn/ver/191/trunk/src/error.cpp
+END
+stack_content_by_name.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/luabind/!svn/ver/198/trunk/src/stack_content_by_name.cpp
+END
+pcall.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/luabind/!svn/ver/479/trunk/src/pcall.cpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/luabind/!svn/ver/450/trunk/src/makefile
+END
+class_registry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/luabind/!svn/ver/349/trunk/src/class_registry.cpp
+END

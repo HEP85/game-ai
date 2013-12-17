@@ -1,0 +1,146 @@
+Filename: Raven_DM1_asTEST.map
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Wall
+about to get type 
+Next Object to create is a Spawn Point
+about to get type 
+Next Object to create is a Spawn Point
+about to get type 
+Next Object to create is a Spawn Point
+about to get type 
+Next Object to create is a Health
+about to get type 
+Next Object to create is a Health
+about to get type 
+Next Object to create is a Health
+about to get type 
+Next Object to create is a rocket_launcher
+about to get type 
+Next Object to create is a Railgun
+about to get type 
+Next Object to create is a shotgun
+about to get type 
+Next Object to create is a shotgun
+about to get type 
+Next Object to create is a rocket_launcher
+about to get type 
+Next Object to create is a sliding_door
+about to get type 
+Next Object to create is a door_trigger
+about to get type 
+Next Object to create is a door_trigger
+building navmesh

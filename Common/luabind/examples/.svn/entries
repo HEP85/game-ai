@@ -1,0 +1,62 @@
+8
+
+dir
+510
+https://luabind.svn.sourceforge.net/svnroot/luabind/trunk/examples
+https://luabind.svn.sourceforge.net/svnroot/luabind
+
+
+
+2006-10-05T19:48:15.000000Z
+488
+arvidn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+64024b27-c627-0410-a3eb-df908347a397
+
+filesystem
+dir
+
+hello_world
+dir
+
+regexp
+dir
+
+glut
+dir
+
+cln
+dir
+
+intrusive_ptr
+dir
+
+makefile
+file
+
+
+
+
+2008-03-03T12:50:33.703125Z
+28f97a3ae1a99d0338693781ca125edf
+2004-08-07T13:37:12.000000Z
+349
+arvidn
+has-props
+
+any_converter
+dir
+

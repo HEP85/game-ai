@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/luabind/!svn/ver/450/trunk/examples/glut
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/luabind/!svn/ver/450/trunk/examples/glut/Jamfile
+END
+glut_bind.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/luabind/!svn/ver/450/trunk/examples/glut/glut_bind.cpp
+END
+glut_bindings.lua
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/luabind/!svn/ver/349/trunk/examples/glut/glut_bindings.lua
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/luabind/!svn/ver/450/trunk/examples/glut/makefile
+END

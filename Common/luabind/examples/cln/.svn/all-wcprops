@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/luabind/!svn/ver/349/trunk/examples/cln
+END
+cln_test.lua
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/luabind/!svn/ver/349/trunk/examples/cln/cln_test.lua
+END
+cln_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/luabind/!svn/ver/117/trunk/examples/cln/cln_test.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/luabind/!svn/ver/349/trunk/examples/cln/README
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/luabind/!svn/ver/234/trunk/examples/cln/makefile
+END

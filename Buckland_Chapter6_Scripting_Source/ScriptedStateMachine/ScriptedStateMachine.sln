@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ScriptedStateMachine", "ScriptedStateMachine\ScriptedStateMachine.vcproj", "{04E861E3-A85D-49A1-8EF5-47C13F82B6DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E861E3-A85D-49A1-8EF5-47C13F82B6DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{04E861E3-A85D-49A1-8EF5-47C13F82B6DA}.Debug|Win32.Build.0 = Debug|Win32
+		{04E861E3-A85D-49A1-8EF5-47C13F82B6DA}.Release|Win32.ActiveCfg = Release|Win32
+		{04E861E3-A85D-49A1-8EF5-47C13F82B6DA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

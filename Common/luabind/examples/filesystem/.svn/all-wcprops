@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/luabind/!svn/ver/488/trunk/examples/filesystem
+END
+directory_iterator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/luabind/!svn/ver/122/trunk/examples/filesystem/directory_iterator.hpp
+END
+filesystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/luabind/!svn/ver/488/trunk/examples/filesystem/filesystem.cpp
+END
+inspect.lua
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/luabind/!svn/ver/233/trunk/examples/filesystem/inspect.lua
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/luabind/!svn/ver/488/trunk/examples/filesystem/Jamfile
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/luabind/!svn/ver/236/trunk/examples/filesystem/makefile
+END

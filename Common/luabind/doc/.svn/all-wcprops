@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/luabind/!svn/ver/500/trunk/doc
+END
+copy.rst
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/luabind/!svn/ver/349/trunk/doc/copy.rst
+END
+return_stl_iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/luabind/!svn/ver/349/trunk/doc/return_stl_iterator.rst
+END
+dependency.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/luabind/!svn/ver/349/trunk/doc/dependency.rst
+END
+changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/luabind/!svn/ver/480/trunk/doc/changes.txt
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/luabind/!svn/ver/353/trunk/doc/style.css
+END
+docs.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/luabind/!svn/ver/480/trunk/doc/docs.html
+END
+docs.rst
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/luabind/!svn/ver/500/trunk/doc/docs.rst
+END
+raw.rst
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/luabind/!svn/ver/349/trunk/doc/raw.rst
+END
+luabind.png
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/luabind/!svn/ver/123/trunk/doc/luabind.png
+END
+pure_out_value.rst
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/luabind/!svn/ver/458/trunk/doc/pure_out_value.rst
+END
+return_reference_to.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/luabind/!svn/ver/349/trunk/doc/return_reference_to.rst
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/luabind/!svn/ver/349/trunk/doc/index.html
+END
+luabind-logo-label.ps
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/luabind/!svn/ver/2/trunk/doc/luabind-logo-label.ps
+END
+out_value.rst
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/luabind/!svn/ver/458/trunk/doc/out_value.rst
+END
+yield.rst
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/luabind/!svn/ver/349/trunk/doc/yield.rst
+END
+discard_result.rst
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/luabind/!svn/ver/349/trunk/doc/discard_result.rst
+END
+adopt.rst
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/luabind/!svn/ver/349/trunk/doc/adopt.rst
+END

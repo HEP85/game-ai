@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/luabind/!svn/ver/450/trunk/examples/intrusive_ptr
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/luabind/!svn/ver/450/trunk/examples/intrusive_ptr/Jamfile
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/luabind/!svn/ver/234/trunk/examples/intrusive_ptr/makefile
+END
+intrusive_ptr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/luabind/!svn/ver/360/trunk/examples/intrusive_ptr/intrusive_ptr.cpp
+END

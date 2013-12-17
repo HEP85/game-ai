@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/luabind/!svn/ver/450/trunk/examples/hello_world
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/luabind/!svn/ver/450/trunk/examples/hello_world/Jamfile
+END
+hello_world.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/luabind/!svn/ver/450/trunk/examples/hello_world/hello_world.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/luabind/!svn/ver/450/trunk/examples/hello_world/README
+END
+project-root.jam
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/luabind/!svn/ver/201/trunk/examples/hello_world/project-root.jam
+END
