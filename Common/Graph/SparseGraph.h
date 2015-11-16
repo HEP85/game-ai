@@ -422,7 +422,7 @@ bool SparseGraph<node_type, edge_type>::isNodePresent(int nd)const
 template <class node_type, class edge_type>
 bool SparseGraph<node_type, edge_type>::isEdgePresent(int from, int to)const
 {
-    if (isNodePresent(from) && isNodePresent(from))
+    if (isNodePresent(from) && isNodePresent(to))
     {
        for (EdgeList::const_iterator curEdge = m_Edges[from].begin();
             curEdge != m_Edges[from].end();
