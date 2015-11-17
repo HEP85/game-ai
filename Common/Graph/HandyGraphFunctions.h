@@ -93,14 +93,14 @@ void GraphHelper_AddAllNeighboursToGridNode(graph_type& graph,
 //-----------------------------------------------------------------------------
 template <class graph_type>
 void GraphHelper_CreateGrid(graph_type& graph,
-                             int cySize,
                              int cxSize,
+                             int cySize,
                              int NumCellsY,
                              int NumCellsX)
 { 
   //need some temporaries to help calculate each node center
-  double CellWidth  = (double)cySize / (double)NumCellsX;
-  double CellHeight = (double)cxSize / (double)NumCellsY;
+  double CellWidth  = (double)cxSize / (double)NumCellsX;
+  double CellHeight = (double)cySize / (double)NumCellsY;
 
   double midX = CellWidth/2;
   double midY = CellHeight/2;
